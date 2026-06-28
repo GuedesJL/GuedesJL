@@ -42,13 +42,13 @@
 - 🎯 **Tipo:** PJ (MEI ativo)
 - 🌍 **Modelo:** 100% Remoto
 - 💰 **Pretensão:** R$ 4.500 – R$ 7.000 (negociável conforme escopo)
-- ⏰ **Disponibilidade** I
+- ⏰ **Disponibilidade** 
 - 📧 **Contato:** gabrielguedes4687@gmail.com
 
 
 #### 📦 VAULT Estoque — Sistema/gestão em produção (2+ anos)
 
-Sistema de gestão de inventário construído do zero e mantido em produção por 2+ anos em construtora real.
+Sistema/gestão - inventário construído do zero e mantido em produção por 2+ anos em construtora real.
 
 - 📦 Controle de materiais com leitura de código de barras
 - 💬 Chat interno entre usuários
