@@ -1,8 +1,8 @@
 # Olá! Eu sou o Gabriel Guedes 👋
 
-**Desenvolvedor Python** com 4 anos de experiência construindo sistemas reais em produção, focado em **automação de processos, integrações entre sistemas e IA generativa**.
+**Desenvolvedor** com 4 anos/experiência, focado **integrações entre sistemas e IA generativa**.
 
-🚀 Criador do **VAULT Estoque** (sistema de gestão em operação real por 2+ anos) e **MindFlow Clinic** (SaaS healthtech multi-tenant em desenvolvimento).
+🚀 Projeto **VAULT Estoque** (sistema-gestão em operação real por 2+ anos).
 
 🌎 Baseado em Mato Grosso, Brasil 🇧🇷 · 🏠 **100% remoto** · 💼 **Aberto a oportunidades PJ**
 
@@ -42,37 +42,22 @@
 - 🎯 **Tipo:** PJ (MEI ativo)
 - 🌍 **Modelo:** 100% Remoto
 - 💰 **Pretensão:** R$ 4.500 – R$ 7.000 (negociável conforme escopo)
-- ⏰ **Disponibilidade:** Imediata
+- ⏰ **Disponibilidade** I
 - 📧 **Contato:** gabrielguedes4687@gmail.com
 
----
 
-### 🚀 Projetos em Destaque
-
-#### 💊 MindFlow Clinic — SaaS healthtech multi-tenant (2026)
-
-SaaS de gestão clínica com automação de onboarding via IA generativa e criptografia zero-knowledge estilo Bitwarden.
-
-- 🏗️ **Backend:** FastAPI async + PostgreSQL 16 multi-tenant + Alembic + JWT
-- ⚛️ **Frontend:** Next.js 15 + React 19 + TypeScript + shadcn/ui
-- 🤖 **IA:** Pipeline de onboarding com Groq/Llama 3.3-70b gerando resumos clínicos estruturados
-- 🔄 **Tempo Real:** WebSocket + Yjs (CRDT) para colaboração em mapas mentais
-- 🔐 **Zero-Knowledge Vault:** criptografia client-side Argon2id + AES-256-GCM + BIP39
-- 🛡️ **Segurança:** isolamento anti-IDOR, JWT com defesa em profundidade, audit log
-
-#### 📦 VAULT Estoque — Sistema de gestão em produção (2+ anos)
+#### 📦 VAULT Estoque — Sistema/gestão em produção (2+ anos)
 
 Sistema de gestão de inventário construído do zero e mantido em produção por 2+ anos em construtora real.
 
 - 📦 Controle de materiais com leitura de código de barras
 - 💬 Chat interno entre usuários
-- 🤖 Bot WhatsApp integrado com IA (Groq/Llama + Whisper para áudio)
 - 🔐 Controle de acesso por cargo (RBAC)
 - 🏗️ Arquitetura multi-tenant
 - 📱 Acesso mobile responsivo
 - 💻 Deploy em servidor Linux (Oracle Cloud) com Docker
 
-**Stack:** Python · Flask · SQLAlchemy · SQLite · Docker · Z-API/Evolution API · Groq · Whisper
+**Stack:** Python · C# · Flask · SQLAlchemy · PostgreSQL · Docker · Z-API/Evolution API · Groq · Whisper
 
 ---
 
